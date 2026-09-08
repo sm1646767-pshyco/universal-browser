@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 Kewal's Universal Browser
+# 🌐 Shubham Maurya's Universal Browser
 
 ### A powerful, cross-platform web browser built with Electron
 
@@ -15,14 +15,25 @@
 
 </div>
 
----
-
 ## 📸 Screenshots
 
-![Browser Screenshot](https://via.placeholder.com/800x500.png?text=Universal+Browser+Screenshot)
+### Homepage
+![Homepage](screenshots/homepage.png)
 
----
+### Multi-Tab Browsing
+![Tabs](screenshots/tabs.png)
 
+### Bookmarks
+![Bookmarks](screenshots/bookmarks.png)
+
+### History
+![History](screenshots/history.png)
+
+### Dark Theme
+![Dark Theme](screenshots/dark-theme.png)
+
+### Light Theme
+![Light Theme](screenshots/light-theme.png)
 ## ✨ Features
 
 ### 🚀 Core Features
